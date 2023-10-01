@@ -40,7 +40,20 @@
     "onboarding.tips.debug.path": "C:/coding/codingPractice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.functionToUse">
+  <component name="RunManager" selected="Application.InsertElement">
+    <configuration name="InsertElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginner2.InsertElement" />
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginner2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintNumberPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginner1.PrintNumberPyramid" />
       <module name="codingPractice" />
@@ -61,6 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="codingPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="functionToUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginner1.functionToUse" />
       <module name="codingPractice" />
@@ -76,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertElement" />
         <item itemvalue="Application.functionToUse" />
         <item itemvalue="Application.PrintNumberPyramid" />
         <item itemvalue="Application.SampleGuide" />
