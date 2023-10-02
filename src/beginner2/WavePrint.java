@@ -16,8 +16,12 @@ public class WavePrint {
     }
 
     /**
-     *
-     * @param arr
+     * This method is used to print elements of an array in wave format
+     * eg- arr=[1 2 3
+     *          4 5 6
+     *          7 8 9]
+     *     output = [ 1 4 7 8 5 2 3 6 9]
+     * @param arr - 2D array of int elements of size n*n
      */
     private static void printWave(int[][] arr) {
         int len = arr.length;
