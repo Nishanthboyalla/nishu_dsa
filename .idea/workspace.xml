@@ -55,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WavePrint">
+  <component name="RunManager" selected="Application.SwapVowels">
     <configuration name="InsertElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginner2.InsertElement" />
       <module name="codingPractice" />
@@ -82,9 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleGuide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SampleGuide" />
+    <configuration name="SwapVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SwapVowels" />
       <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapVowels" />
         <item itemvalue="Application.WavePrint" />
         <item itemvalue="Application.InsertElement" />
         <item itemvalue="Application.functionToUse" />
         <item itemvalue="Application.PrintNumberPyramid" />
-        <item itemvalue="Application.SampleGuide" />
       </list>
     </recent_temporary>
   </component>
