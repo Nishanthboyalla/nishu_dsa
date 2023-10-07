@@ -16,6 +16,11 @@ public class IdentifyingIdentityMatrix {
         System.out.print(verifyIdentityMatrix(matrix));
     }
 
+    /**
+     * method to verify given matrix is identity or not
+     * @param matrix - input matrix
+     * @return true or false
+     */
     private static boolean verifyIdentityMatrix(int[][] matrix) {
         int n = matrix.length;
         for (int i = 0; i < n; i++) {
