@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="adding solution in beginner 2 and updated java docs">
-      <change beforePath="$PROJECT_DIR$/src/beginner2/IdentifyingIdentityMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner2/IdentifyingIdentityMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IdentifyingIdentityMatrix">
+  <component name="RunManager" selected="Application.MatrixMultiplication">
     <configuration name="IdentifyingIdentityMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginner2.IdentifyingIdentityMatrix" />
       <module name="codingPractice" />
@@ -71,6 +71,19 @@
     </configuration>
     <configuration name="InsertElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginner2.InsertElement" />
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginner2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginner2.MatrixMultiplication" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
@@ -114,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="functionToUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner1.functionToUse" />
-      <module name="codingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginner1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixMultiplication" />
         <item itemvalue="Application.IdentifyingIdentityMatrix" />
         <item itemvalue="Application.SwapVowels" />
         <item itemvalue="Application.WavePrint" />
         <item itemvalue="Application.InsertElement" />
-        <item itemvalue="Application.functionToUse" />
       </list>
     </recent_temporary>
   </component>
