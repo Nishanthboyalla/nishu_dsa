@@ -55,9 +55,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MatrixMultiplication">
-    <configuration name="IdentifyingIdentityMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner2.IdentifyingIdentityMatrix" />
+  <component name="RunManager" selected="Application.EmptyString">
+    <configuration name="EmptyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginner2.EmptyString" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner2.InsertElement" />
+    <configuration name="IdentifyingIdentityMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginner2.IdentifyingIdentityMatrix" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmptyString" />
         <item itemvalue="Application.MatrixMultiplication" />
         <item itemvalue="Application.IdentifyingIdentityMatrix" />
         <item itemvalue="Application.SwapVowels" />
         <item itemvalue="Application.WavePrint" />
-        <item itemvalue="Application.InsertElement" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +156,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding solution in beginner 2 and updated java docs" />
