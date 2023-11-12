@@ -18,6 +18,12 @@ public class ArrayRotation {
         }
     }
 
+    /**
+     * method used to rotate an array B times
+     *
+     * @param input - input array
+     * @param B - rotation number
+     */
     private static void rotateArray(int[] input, int B) {
         int n = input.length;
         revArray(input, 0, n-1);
@@ -25,6 +31,13 @@ public class ArrayRotation {
         revArray(input, B, n-1);
     }
 
+    /**
+     * method to reverse an array in a given range
+     *
+     * @param input - array input
+     * @param i - start index
+     * @param i1 - end index
+     */
     private static void revArray(int[] input, int i, int i1) {
         int L = i, R = i1;
         while (L < R) {
