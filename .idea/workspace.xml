@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="added one more problem to intermediate module">
+    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="Added one more problem to intermediate module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,8 @@
     "Application.CountPairs.executor": "Run",
     "Application.GetSubArrayWithLeastLength.executor": "Run",
     "Application.GoodPair.executor": "Run",
-    "Application.SumOfAllSubArrays.executor": "Debug",
+    "Application.PrintDiagonalElementsOfATwoDimensionArray.executor": "Debug",
+    "Application.SumOfAllSubArrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -65,26 +66,13 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfAllSubArrays">
+  <component name="RunManager" selected="Application.PrintDiagonalElementsOfATwoDimensionArray">
     <configuration name="CountPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intermediate1.CarryForward.CountPairs" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Intermediate1.CarryForward.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EquilibriumIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.PrefixSum.EquilibriumIndex" />
-      <module name="codingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Intermediate1.PrefixSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,6 +106,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintDiagonalElementsOfATwoDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate1.twodimensionmatrix.PrintDiagonalElementsOfATwoDimensionArray" />
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intermediate1.twodimensionmatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfAllSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intermediate1.SubArrays.SumOfAllSubArrays" />
       <module name="codingPractice" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintDiagonalElementsOfATwoDimensionArray" />
         <item itemvalue="Application.SumOfAllSubArrays" />
         <item itemvalue="Application.GetSubArrayWithLeastLength" />
         <item itemvalue="Application.CountPairs" />
         <item itemvalue="Application.GoodPair" />
-        <item itemvalue="Application.EquilibriumIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709101243565</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added one more problem to intermediate module">
+      <option name="closed" value="true" />
+      <created>1709793605905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709793605905</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,14 +207,15 @@
     <MESSAGE value="adding solution in beginner 2 and updated java docs" />
     <MESSAGE value="Updated intermediate file with java docs" />
     <MESSAGE value="added one more problem to intermediate module" />
-    <option name="LAST_COMMIT_MESSAGE" value="added one more problem to intermediate module" />
+    <MESSAGE value="Added one more problem to intermediate module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added one more problem to intermediate module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Intermediate1/SubArrays/SumOfAllSubArrays.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/Intermediate1/twodimensionmatrix/PrintDiagonalElementsOfATwoDimensionArray.java</url>
+          <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
