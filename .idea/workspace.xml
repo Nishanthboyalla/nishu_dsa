@@ -96,7 +96,7 @@
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
+          <option name="PATTERN" value="basics.Intermediate1.twodimensionmatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,7 +109,7 @@
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
+          <option name="PATTERN" value="basics.Intermediate1.twodimensionmatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="PrintElementsInSpiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.Intermediate1.slidingwindow.PrintElementsInSpiralOrder" />
+      <option name="MAIN_CLASS_NAME" value="basics.Intermediate1.twodimensionmatrix.PrintElementsInSpiralOrder" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
+          <option name="PATTERN" value="basics.Intermediate1.twodimensionmatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,7 +148,7 @@
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
+          <option name="PATTERN" value="basics.Intermediate1.twodimensionmatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
