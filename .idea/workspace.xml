@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="Added 3 more problems under sliding window package of intermediate1 module">
-      <change afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/PrintElementsInSpiralOrder.java" afterDir="false" />
+    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="Added 1 more file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/Arrays/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/arrays/ArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/Arrays/GoodPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/arrays/GoodPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/Arrays/ReverseInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/arrays/ReverseInARange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/CarryForward/CountPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/carryforward/CountPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/CarryForward/GetSubArrayWithLeastLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/carryforward/GetSubArrayWithLeastLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/PrefixSum/EquilibriumIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/prefixsum/EquilibriumIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/SubArrays/SumOfAllSubArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/subarrays/SumOfAllSubArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/slidingwindow/MaxSumSubArrayOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/MaxSumSubArrayOfSizeK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/slidingwindow/MinNoOfSwapsToPutAllKTogether.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/MinNoOfSwapsToPutAllKTogether.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/slidingwindow/StartAndEndIndicesOfAllSubArraysOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/StartAndEndIndicesOfAllSubArraysOfSizeK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate1/twodimensionmatrix/PrintDiagonalElementsOfATwoDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/twodimensionmatrix/PrintDiagonalElementsOfATwoDimensionArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner1/PrintNumberPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner1/PrintNumberPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner1/functionToUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner1/functionToUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner2/EmptyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/EmptyString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner2/IdentifyingIdentityMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/IdentifyingIdentityMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner2/InsertElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/InsertElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner2/MatrixMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/MatrixMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner2/RowSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/RowSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner2/WavePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/WavePrint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711878668511</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added 1 more problems under 2D Array package of intermediate1 module">
+      <option name="closed" value="true" />
+      <created>1711882365316</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711882365316</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,17 +238,8 @@
     <MESSAGE value="Added one more problem to intermediate module" />
     <MESSAGE value="Added one more problem related to 2D Array in intermediate module" />
     <MESSAGE value="Added 3 more problems under sliding window package of intermediate1 module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 3 more problems under sliding window package of intermediate1 module" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/PrintElementsInSpiralOrder.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Added 1 more problems under 2D Array package of intermediate1 module" />
+    <MESSAGE value="Added 1 more file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 1 more file" />
   </component>
 </project>
