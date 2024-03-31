@@ -1,4 +1,4 @@
-package Intermediate1.slidingwindow;
+package basics.Intermediate1.slidingwindow;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Intermediate1.twodimensionmatrix;
+package basics.Intermediate1.twodimensionmatrix;
 
 import java.util.Scanner;
 

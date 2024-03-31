@@ -1,4 +1,4 @@
-package Intermediate1.CarryForward;
+package basics.Intermediate1.carryforward;
 
 import java.util.Scanner;
 

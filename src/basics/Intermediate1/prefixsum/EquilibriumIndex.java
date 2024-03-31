@@ -1,4 +1,4 @@
-package Intermediate1.PrefixSum;
+package basics.Intermediate1.prefixsum;
 
 import java.util.Scanner;
 

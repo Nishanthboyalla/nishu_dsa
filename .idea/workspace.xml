@@ -4,8 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="Added one more problem related to 2D Array in intermediate module">
+    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="Added 3 more problems under sliding window package of intermediate1 module">
+      <change afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/PrintElementsInSpiralOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/Arrays/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/arrays/ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/Arrays/GoodPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/arrays/GoodPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/Arrays/ReverseInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/arrays/ReverseInARange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/CarryForward/CountPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/carryforward/CountPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/CarryForward/GetSubArrayWithLeastLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/carryforward/GetSubArrayWithLeastLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/PrefixSum/EquilibriumIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/prefixsum/EquilibriumIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/SubArrays/SumOfAllSubArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/subarrays/SumOfAllSubArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/slidingwindow/MaxSumSubArrayOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/MaxSumSubArrayOfSizeK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/slidingwindow/MinNoOfSwapsToPutAllKTogether.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/MinNoOfSwapsToPutAllKTogether.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/slidingwindow/StartAndEndIndicesOfAllSubArraysOfSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/StartAndEndIndicesOfAllSubArraysOfSizeK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate1/twodimensionmatrix/PrintDiagonalElementsOfATwoDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Intermediate1/twodimensionmatrix/PrintDiagonalElementsOfATwoDimensionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner1/PrintNumberPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner1/PrintNumberPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner1/functionToUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner1/functionToUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner2/EmptyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/EmptyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner2/IdentifyingIdentityMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/IdentifyingIdentityMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner2/InsertElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/InsertElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner2/MatrixMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/MatrixMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner2/RowSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/RowSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner2/WavePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/beginner2/WavePrint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +71,9 @@
     "Application.GetSubArrayWithLeastLength.executor": "Run",
     "Application.GoodPair.executor": "Run",
     "Application.MaxSumSubArrayOfSizeK.executor": "Debug",
-    "Application.MinNoOfSwapsToPutAllKTogether.executor": "Run",
+    "Application.MinNoOfSwapsToPutAllKTogether.executor": "Debug",
     "Application.PrintDiagonalElementsOfATwoDimensionArray.executor": "Debug",
+    "Application.PrintElementsInSpiralOrder.executor": "Run",
     "Application.StartAndEndIndicesOfAllSubArraysOfSizeK.executor": "Run",
     "Application.SumOfAllSubArrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -69,13 +90,13 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MinNoOfSwapsToPutAllKTogether">
+  <component name="RunManager" selected="Application.PrintElementsInSpiralOrder">
     <configuration name="MaxSumSubArrayOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.slidingwindow.MaxSumSubArrayOfSizeK" />
+      <option name="MAIN_CLASS_NAME" value="basics.Intermediate1.slidingwindow.MaxSumSubArrayOfSizeK" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate1.slidingwindow.*" />
+          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="MinNoOfSwapsToPutAllKTogether" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.slidingwindow.MinNoOfSwapsToPutAllKTogether" />
+      <option name="MAIN_CLASS_NAME" value="basics.Intermediate1.slidingwindow.MinNoOfSwapsToPutAllKTogether" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate1.slidingwindow.*" />
+          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +118,24 @@
       </method>
     </configuration>
     <configuration name="PrintDiagonalElementsOfATwoDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.twodimensionmatrix.PrintDiagonalElementsOfATwoDimensionArray" />
+      <option name="MAIN_CLASS_NAME" value="basics.Intermediate1.twodimensionmatrix.PrintDiagonalElementsOfATwoDimensionArray" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate1.twodimensionmatrix.*" />
+          <option name="PATTERN" value="basics.Intermediate1.twodimensionmatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintElementsInSpiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.Intermediate1.slidingwindow.PrintElementsInSpiralOrder" />
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,24 +144,11 @@
       </method>
     </configuration>
     <configuration name="StartAndEndIndicesOfAllSubArraysOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.slidingwindow.StartAndEndIndicesOfAllSubArraysOfSizeK" />
+      <option name="MAIN_CLASS_NAME" value="basics.Intermediate1.slidingwindow.StartAndEndIndicesOfAllSubArraysOfSizeK" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate1.slidingwindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfAllSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.SubArrays.SumOfAllSubArrays" />
-      <module name="codingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Intermediate1.SubArrays.*" />
+          <option name="PATTERN" value="basics.Intermediate1.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintElementsInSpiralOrder" />
         <item itemvalue="Application.MinNoOfSwapsToPutAllKTogether" />
         <item itemvalue="Application.MaxSumSubArrayOfSizeK" />
         <item itemvalue="Application.StartAndEndIndicesOfAllSubArraysOfSizeK" />
         <item itemvalue="Application.PrintDiagonalElementsOfATwoDimensionArray" />
-        <item itemvalue="Application.SumOfAllSubArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710909052243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added 3 more problems under sliding window package of intermediate1 module">
+      <option name="closed" value="true" />
+      <created>1711878668511</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711878668511</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,15 +249,16 @@
     <MESSAGE value="added one more problem to intermediate module" />
     <MESSAGE value="Added one more problem to intermediate module" />
     <MESSAGE value="Added one more problem related to 2D Array in intermediate module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added one more problem related to 2D Array in intermediate module" />
+    <MESSAGE value="Added 3 more problems under sliding window package of intermediate1 module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 3 more problems under sliding window package of intermediate1 module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Intermediate1/slidingwindow/MinNoOfSwapsToPutAllKTogether.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/basics/Intermediate1/slidingwindow/PrintElementsInSpiralOrder.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
