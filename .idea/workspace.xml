@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="Added one more problem to intermediate module">
+    <list default="true" id="02a06407-a7ec-4095-838b-16acd00c1ee9" name="Changes" comment="Added one more problem related to 2D Array in intermediate module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,10 @@
     "Application.CountPairs.executor": "Run",
     "Application.GetSubArrayWithLeastLength.executor": "Run",
     "Application.GoodPair.executor": "Run",
+    "Application.MaxSumSubArrayOfSizeK.executor": "Debug",
+    "Application.MinNoOfSwapsToPutAllKTogether.executor": "Run",
     "Application.PrintDiagonalElementsOfATwoDimensionArray.executor": "Debug",
+    "Application.StartAndEndIndicesOfAllSubArraysOfSizeK.executor": "Run",
     "Application.SumOfAllSubArrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,13 +69,13 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintDiagonalElementsOfATwoDimensionArray">
-    <configuration name="CountPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.CarryForward.CountPairs" />
+  <component name="RunManager" selected="Application.MinNoOfSwapsToPutAllKTogether">
+    <configuration name="MaxSumSubArrayOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate1.slidingwindow.MaxSumSubArrayOfSizeK" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate1.CarryForward.*" />
+          <option name="PATTERN" value="Intermediate1.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,25 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetSubArrayWithLeastLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.CarryForward.GetSubArrayWithLeastLength" />
+    <configuration name="MinNoOfSwapsToPutAllKTogether" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate1.slidingwindow.MinNoOfSwapsToPutAllKTogether" />
       <module name="codingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate1.CarryForward.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GoodPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate1.Arrays.GoodPair" />
-      <module name="codingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Intermediate1.Arrays.*" />
+          <option name="PATTERN" value="Intermediate1.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,6 +102,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Intermediate1.twodimensionmatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartAndEndIndicesOfAllSubArraysOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate1.slidingwindow.StartAndEndIndicesOfAllSubArraysOfSizeK" />
+      <module name="codingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intermediate1.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinNoOfSwapsToPutAllKTogether" />
+        <item itemvalue="Application.MaxSumSubArrayOfSizeK" />
+        <item itemvalue="Application.StartAndEndIndicesOfAllSubArraysOfSizeK" />
         <item itemvalue="Application.PrintDiagonalElementsOfATwoDimensionArray" />
         <item itemvalue="Application.SumOfAllSubArrays" />
-        <item itemvalue="Application.GetSubArrayWithLeastLength" />
-        <item itemvalue="Application.CountPairs" />
-        <item itemvalue="Application.GoodPair" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709793605905</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added one more problem related to 2D Array in intermediate module">
+      <option name="closed" value="true" />
+      <created>1710909052243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710909052243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,15 +219,16 @@
     <MESSAGE value="Updated intermediate file with java docs" />
     <MESSAGE value="added one more problem to intermediate module" />
     <MESSAGE value="Added one more problem to intermediate module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added one more problem to intermediate module" />
+    <MESSAGE value="Added one more problem related to 2D Array in intermediate module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added one more problem related to 2D Array in intermediate module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Intermediate1/twodimensionmatrix/PrintDiagonalElementsOfATwoDimensionArray.java</url>
+          <url>file://$PROJECT_DIR$/src/Intermediate1/slidingwindow/MinNoOfSwapsToPutAllKTogether.java</url>
           <line>7</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
